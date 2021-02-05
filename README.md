@@ -1,4 +1,3 @@
-#Payement Gateway Integration
 The Sparks Foundation
 
 Graduate Rotational Internship Program (GRIP)
